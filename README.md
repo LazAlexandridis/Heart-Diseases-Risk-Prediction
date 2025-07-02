@@ -18,3 +18,6 @@ Models Used:
 - Randomized Hyperparameter Optimization using RandomSearch
 - Statistical Testing to scientifically back up results
 - Visualization and evaluation using various plots and metrics
+
+# Dataset
+The dataset is publicly available on [Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/)
